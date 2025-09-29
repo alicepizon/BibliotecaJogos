@@ -1,0 +1,9 @@
+==== Relatório Ludoteca ====
+Jogos:
+[1] Catan - Disponível
+
+Membros:
+[1] João Silva
+
+Empréstimos:
+[Empréstimo 1] Jogo 1 -> Membro 1 em 29/09/2025 (Devolvido: 29/09/2025, Multa: R$0,00)

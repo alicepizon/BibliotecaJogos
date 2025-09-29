@@ -1,0 +1,45 @@
+{
+  "Jogos": [
+    {
+      "Id": 1,
+      "Nome": "Catan",
+      "Emprestado": false
+    },
+    {
+      "Id": 2,
+      "Nome": "ludo",
+      "Emprestado": true
+    }
+  ],
+  "Membros": [
+    {
+      "Id": 1,
+      "Nome": "Jo\u00E3o Silva"
+    },
+    {
+      "Id": 2,
+      "Nome": "Alice"
+    }
+  ],
+  "Emprestimos": [
+    {
+      "Id": 1,
+      "JogoId": 1,
+      "MembroId": 1,
+      "DataEmprestimo": "2025-09-29T15:33:36.7861573-03:00",
+      "DataDevolucao": null,
+      "Multa": 0
+    },
+    {
+      "Id": 2,
+      "JogoId": 2,
+      "MembroId": 2,
+      "DataEmprestimo": "2025-09-29T15:33:51.0887226-03:00",
+      "DataDevolucao": null,
+      "Multa": 0
+    }
+  ],
+  "ProximoJogoId": 3,
+  "ProximoMembroId": 3,
+  "ProximoEmprestimoId": 3
+}
